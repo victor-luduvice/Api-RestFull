@@ -1,7 +1,6 @@
 🚀 API RESTful com Node.js + React 
 
-
-📌 Sobre o Projeto
+![Descrição da Imagem](Back-end/Front-end/my-vue-app/src/assets/minha-imagem.png)
 
 Esta API RESTful foi desenvolvida utilizando Node.js, React, Axios e Prisma para fornecer uma estrutura eficiente, modular e escalável. O objetivo principal é facilitar a gestão de usuários e produtos, garantindo um desempenho otimizado e seguindo as melhores práticas de desenvolvimento.
 
