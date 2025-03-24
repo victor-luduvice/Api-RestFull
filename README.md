@@ -2,47 +2,31 @@
 
 ![Descrição da Imagem](Back-end/Front-end/my-vue-app/src/assets/minha-imagem.png)
 
-Esta API RESTful foi desenvolvida utilizando Node.js, React, Axios e Prisma para fornecer uma estrutura eficiente, modular e escalável. O objetivo principal é facilitar a gestão de usuários e produtos, garantindo um desempenho otimizado e seguindo as melhores práticas de desenvolvimento.
+Esta **API RESTful** foi desenvolvida utilizando **Node.js**, **React**, **Axios** e **Prisma**, proporcionando uma estrutura modular, escalável e eficiente.  
+O objetivo principal é **gerenciar usuários e produtos**, garantindo segurança e desempenho otimizado.  
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas  
 
-🔹 Backend
+### 🔹 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-16.0-green)  
+![Express.js](https://img.shields.io/badge/Express.js-4.x-yellow)  
+![Prisma](https://img.shields.io/badge/Prisma-v2.29.0-blue)  
+![MongoDB](https://img.shields.io/badge/MongoDB-13.0-blue)  
 
-Node.js - Ambiente de execução JavaScript
+### 🔹 Frontend  
+![React](https://img.shields.io/badge/React-17.0-blue)  
+![Axios](https://img.shields.io/badge/Axios-0.21.1-blue)  
+![Styled Components](https://img.shields.io/badge/Styled_Components-v5.x-blue)  
 
-Express.js - Framework para construção de APIs
-
-Prisma ORM - ORM para gerenciamento do banco de dados
-
-MongoDB - Banco de dados relacional
-
-
-🔹 Frontend
-
-React - Biblioteca para construção da interface do usuário
-
-Axios - Cliente HTTP para comunicação entre frontend e backend
-
-Styled Components - Estilização dinâmica para React
-
+---
 
 🔥 Endpoints da API
 
-➤ Usuários
-
-📌 GET /users - Retorna todos os usuários
-📌 POST /users - Cria um novo usuário
-📌 PUT /users/:id - Atualiza um usuário
-📌 DELETE /users/:id - Remove um usuário
-
-
-📅 Melhorias Futuras
-
-✔️ Implementação de autenticação JWT
-✔️ Deploy automático com CI/CD
-✔️ Testes unitários e de integração
-✔️ Documentação com Swagger
-✔️ Cache para otimização de performance
+➤ 🧑‍💼 Usuários
+📌 GET /users → Retorna todos os usuários
+📌 POST /users → Cria um novo usuário
+📌 PUT /users/:id → Atualiza um usuário
+📌 DELETE /users/:id → Remove um usuário
 
 🤝 Como Contribuir
 
